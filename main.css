@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box
+}
+.header-top{
+    height: 100px;
+    background: #272f54;
+   text-align: center;
+}
+.card-title{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    color: red;
+}
+.card-text{
+    font-size: 13px;
+    color: black;
+}
+footer{
+    height: 50px;
+    background: #272f54;
+}
+footer h2{
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
